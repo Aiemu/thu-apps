@@ -188,7 +188,7 @@ An APP aimed at integrating various sources of campus information.
     </div>
 </div> 
 
-## [thuhole](https://thuhole.com/)
+## [thuhole](https://thuhole.com/) (Deprecated)
 [![](https://img.shields.io/badge/Open%20Source-green)](https://github.com/treehollow)
 [![](https://img.shields.io/badge/Unofficial-blue)](https://thuhole.com/)
 [![](https://img.shields.io/badge/App%20Store%20Rating-4.7/5,%2088-blueviolet)](https://apps.apple.com/cn/app/treehollow/id1556835658)
